@@ -87,8 +87,7 @@
 
 - 🎯 Building real-world data projects
 - 📚 Strengthening my data analysis and statistics foundations
-- 🧠 Exploring machine learning for health tech solutions (like **curaGUARD** – my virtual doctor project!)
-
+- 🧠 Exploring machine learning for tech solutions 
 ---
 
 ## 📂 Featured Projects
@@ -101,9 +100,8 @@
 
 ## 📬 Let's Connect
 
-- 📧 Email: vishalaxyz@example.com *(replace with your real email)*  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com) *(if you have one)*  
+- 📧 Email: vishalabantna@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/b-vishala/ 
 
 ---
 
