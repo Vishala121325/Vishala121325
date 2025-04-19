@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img height="200" src="https://images.unsplash.com/photo-1561948953-1281a84bcf0f" alt="Girl coding at desk" />
+  <img height="200" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Girl coding" />
 </div>
 
 ---
@@ -27,7 +27,7 @@
 I'm currently working on exciting projects related to deep learning, dashboarding, and health tech.  
 In my free time, I enjoy painting, writing poetry, and exploring new tech tools.  
   
-- 🔭 Working on: Yatrika – Your Journey, Curated with Heart 
+- 🔭 Working on: curaGUARD – a virtual health assistant  
 - 📚 Learning: Data analysis, machine learning, and data storytelling  
 - ✍ Hobby: Writing poems and painting
 
