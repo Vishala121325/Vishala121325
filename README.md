@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Girl coding" />
+  <img height="200" src="assets/b4a9d98a-d351-4ea9-b22f-c7f41b6430a6.png" alt="Girl working on laptop at desk" />
 </div>
 
 ---
