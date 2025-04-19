@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img height="200" src="assets/b4a9d98a-d351-4ea9-b22f-c7f41b6430a6.png" alt="Girl working on laptop at desk" />
+  <img height="200" src="./8287340a-cc0b-452d-a2c9-397f63fb4e5e.png" alt="Girl working on laptop at desk" />
 </div>
 
 ---
