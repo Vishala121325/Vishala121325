@@ -8,9 +8,9 @@
 ---
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/undraw/undraw/master/illustrations/code_typing.svg" alt="Girl coding at desk illustration" />
+  <img height="200" src="https://images.unsplash.com/photo-1561948953-1281a84bcf0f" alt="Girl coding at desk" />
 </div>
- 
+
 ---
 
 ## 🌟 Quick Glance
