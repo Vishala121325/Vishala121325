@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img height="200" src="https://cdn.pixabay.com/photo/2021/01/15/10/48/woman-5919923_1280.jpg" alt="Girl working on laptop at desk" />
+  <img height="200" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" alt="Girl working on laptop at desk" />
 </div>
 
 ---
