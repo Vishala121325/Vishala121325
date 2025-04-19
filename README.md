@@ -1,64 +1,52 @@
 # 👋 Hi there, I'm Vishala!
 
 🎓 I'm a passionate BCA student and an aspiring **Data Analyst** who loves turning raw data into meaningful insights.  
-📍 Based in Bhubaneswar, India.  
-📊 Currently learning data visualization, data wrangling, and predictive modeling.  
-🚀 Building projects that combine **data, design, and impact**.
+📍 Based in Bhubaneswar, India  
+📊 Currently diving deep into **data visualization**, **data wrangling**, and **predictive modeling**  
+🚀 Building projects that blend **data, creativity, and real-world impact**
 
 ---
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
 
-###  
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-</div>
-
-###  
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&" />
+  <img height="200" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Girl coding" />
 </div>
 
 ---
 
-<h1 align="center" style="font-family:Aparajita;">hey there 👋</h1>
+## 🌟 Quick Glance
+
+- 🌱 Lifelong learner and creator  
+- 🎨 I express myself through poetry and painting  
+- 🤖 Exploring deep learning and machine learning with a focus on analytics  
+- 💡 Passionate about combining **creativity with data** for meaningful change
 
 ---
 
-### ✨ Quick Glance  
-- 🌱 I’m constantly learning and creating  
-- 🖌️ I love expressing myself through poetry and painting  
-- 🤖 Currently exploring deep learning with a dream to become a Data Analyst  
-- 🔍 I believe in blending **creativity with data** to drive meaningful change
+## 👩‍💻 About Me
+
+I'm currently working on exciting projects related to deep learning, dashboarding, and health tech.  
+In my free time, I enjoy painting, writing poetry, and exploring new tech tools.  
+  
+- 🔭 Working on: Yatrika – Your Journey, Curated with Heart.
+- 📚 Learning: Data analysis, machine learning, and data storytelling  
+- ✍ Hobby: Writing poems and painting
 
 ---
 
-<h3 align="left" style="font-family:Aparajita;">👩‍💻 About Me</h3>
-
-<p align="left" style="font-family:Aparajita;">
-I'm a student from Bhubaneswar, India.<br><br>
-- 🔭 I’m working on deep learning projects<br>
-- 📚 I'm currently learning data analysis, machine learning, and visualization<br>
-- ✍ In my free time, I write poetry and enjoy painting
-</p>
-
----
-
-<h3 align="left" style="font-family:Aparajita;">🛠 Language and Tools</h3>
+## 🛠 Languages & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
 </div>
 
 ---
@@ -67,43 +55,53 @@ I'm a student from Bhubaneswar, India.<br><br>
 
 - **Languages**: Python, SQL  
 - **Data Tools**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Excel  
-- **ML Tools**: Scikit-Learn  
-- **Visualization/Dashboards**: Power BI, Tableau, Dash  
-- **Other**: Git, GitHub, Jupyter Notebooks, VS Code  
+- **ML Tools**: Scikit-learn  
+- **Dashboards & BI**: Power BI, Tableau, Dash  
+- **Others**: Git, GitHub, Jupyter Notebooks, VS Code
 
 ---
 
-## 📈 Current Focus
+## 🏆 GitHub Trophies
 
-- 🎯 Building real-world data projects  
-- 📚 Strengthening my data analysis and statistics foundations  
-- 🧠 Exploring machine learning for tech solutions  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vishala121325&theme=algolia&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+## 📈 GitHub Stats & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishala121325&layout=compact&theme=vision-friendly-dark" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishala121325&show_icons=true&theme=vision-friendly-dark&hide=stars,issues" alt="GitHub Stats" height="150"/>
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
-- **curaGUARD** – Virtual Health Companion (in progress)  
-- **Sales Dashboard** – Interactive Power BI dashboard for retail sales  
-- **Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard** – Data analysis and visualization project using Python and Plotly  
+- **curaGUARD** – A Virtual Health Companion powered by AI  
+- **Sales Dashboard** – Retail sales dashboard in Power BI  
+- **Stock Revenue Analysis** – Python + Plotly project analyzing historical stock data  
+- **CNN Food Classifier** – Deep learning model trained on Food101 dataset [[GitHub Repo](https://github.com/Vishala121325/CNN_network_project)]
 
 ---
 
-## 📬 Let's Connect
+## 📬 Let’s Connect!
 
 - 📧 Email: vishalabantna@gmail.com  
-- 💼 LinkedIn: [https://www.linkedin.com/in/b-vishala/](https://www.linkedin.com/in/b-vishala/)  
+- 💼 LinkedIn: [b-vishala](https://www.linkedin.com/in/b-vishala/)  
 
 ---
 
-<h3 align="left" style="font-family:Aparajita;">🔥   My Stats :</h3>
+## 🔥 GitHub Streak
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vishala121325&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vishala121325&theme=dark&hide_border=false" height="220" />
+</p>
 
 ---
 
 > *“Data is a precious thing and will last longer than the systems themselves.”* – Tim Berners-Lee  
 
-Thanks for stopping by! 🌟
+Thanks for visiting! 🌟
