@@ -8,8 +8,9 @@
 ---
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" alt="Girl working on laptop at desk" />
+  <img src="./2537dbe3-4da2-4dce-b782-899847e4684f.png" alt="Coding icon" height="150"/>
 </div>
+
 
 ---
 
