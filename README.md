@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img height="200" src="https://images.unsplash.com/photo-1596485244969-fb442b0f45b5" alt="Aesthetic image of a girl working on laptop at desk" />
+  <img height="200" src="https://raw.githubusercontent.com/undraw/undraw/master/illustrations/code_typing.svg" alt="Girl coding at desk illustration" />
 </div>
 
 ---
