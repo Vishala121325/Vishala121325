@@ -10,7 +10,7 @@
 <div align="center">
   <img height="200" src="https://raw.githubusercontent.com/undraw/undraw/master/illustrations/code_typing.svg" alt="Girl coding at desk illustration" />
 </div>
-
+ 
 ---
 
 ## 🌟 Quick Glance
