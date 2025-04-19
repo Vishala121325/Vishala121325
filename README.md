@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Girl coding" />
+  <img height="200" src="assets/girl_working.jpg" alt="Girl working on laptop at desk" />
 </div>
 
 ---
@@ -105,4 +105,3 @@ In my free time, I enjoy painting, writing poetry, and exploring new tech tools.
 > *“Data is a precious thing and will last longer than the systems themselves.”* – Tim Berners-Lee  
 
 Thanks for visiting! 🌟
-
