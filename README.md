@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img src="./2537dbe3-4da2-4dce-b782-899847e4684f.png" alt="Coding icon" height="150"/>
+  <img src="./assets/2537dbe3-4da2-4dce-b782-899847e4684f.png" alt="Coding icon" height="150"/>
 </div>
 
 
