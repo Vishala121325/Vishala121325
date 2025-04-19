@@ -8,9 +8,8 @@
 ---
 
 <div align="center">
-  <img src="./assets/2537dbe3-4da2-4dce-b782-899847e4684f.png" alt="Coding icon" height="150"/>
+  <img height="200" src="./assets/girl-coding.gif" alt="Girl coding" />
 </div>
-
 
 ---
 
@@ -28,7 +27,7 @@
 I'm currently working on exciting projects related to deep learning, dashboarding, and health tech.  
 In my free time, I enjoy painting, writing poetry, and exploring new tech tools.  
   
-- 🔭 Working on: Yatrika – Your Journey, Curated with Heart.  
+- 🔭 Working on: Yatrika – Your Journey, Curated with Heart 
 - 📚 Learning: Data analysis, machine learning, and data storytelling  
 - ✍ Hobby: Writing poems and painting
 
